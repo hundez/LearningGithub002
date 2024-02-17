@@ -2,4 +2,4 @@
 
 dev1 de ilk degisiklik
 
-de1 de 2. degisiklik
+de1 de 2. degisiklik  ...
